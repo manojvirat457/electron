@@ -1,0 +1,21 @@
+{
+  "name": "ip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^9.0.0",
+    "electron-browser-storage": "^1.0.6",
+    "electron-localstorage": "^1.0.5",
+    "macaddress": "^0.4.4",
+    "pretty-bytes": "^2.0.1"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.35.2"
+  },
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
