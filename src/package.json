@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "dependencies": {
-    "electron": "^9.0.0",
+    "electron": "^18.3.7",
     "electron-browser-storage": "^1.0.6",
     "electron-localstorage": "^1.0.5",
     "macaddress": "^0.4.4",
